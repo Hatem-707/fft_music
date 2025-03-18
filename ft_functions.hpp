@@ -1,4 +1,6 @@
 #pragma once
+#include <complex>
+#include <vector>
 
 std::complex<float> euler(float angle);
 std::vector<std::complex<float>> dft(std::vector<std::complex<float>> polynomial);
