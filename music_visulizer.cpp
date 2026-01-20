@@ -1,8 +1,7 @@
-#include "complex"
-#include "ft_functions.h"
-#include "raylib.h"
+#include <complex>
+#include "ft_functions.hpp"
+#include <raylib.h>
 #include <bits/stdc++.h>
-#include <vector>
 
 #define ARR_LEN(xs) sizeof(xs) / sizeof(xs[0])
 
