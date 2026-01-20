@@ -1,6 +1,6 @@
 #include "complex"
 #include <bits/stdc++.h>
-#include "ft_functions.hpp"
+#include "ft_functions.h"
 
 float pi = acos(-1);
 
